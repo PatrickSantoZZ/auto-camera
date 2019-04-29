@@ -1,5 +1,5 @@
-## Auto-update guide
-- Create a folder called `auto-camera` in `tera-proxy/mods` and download >> [`module.json`](https://raw.githubusercontent.com/seraphinush-gaming/auto-camera/master/module.json) << (right-click this link and save link as..) into the folder
+## How to Install
+Coming Soon
 
 ## Usage
 - __`cam`__
