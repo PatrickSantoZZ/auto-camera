@@ -23,7 +23,7 @@
   - Default distance is `800`
 
 ## Info
-- Original author : [teralove](https://github.com/teralove) [seraphinush-gaming] (https://github.com/seraphinush-gaming)
+- Original author : [teralove](https://github.com/teralove)/seraphinush-gaming(https://github.com/seraphinush-gaming)
 - Normal camera maximum distance is 500
 - Harrowhold camera maximum distance is 1200
 - By default, the initial viewing distance (not max) when you login is 170
