@@ -1,14 +1,12 @@
 {
-  "author": "seraphinush | teralove | Nekonekoo",
-  "description": "tera-proxy module to unlock maximum viewing distance",
-  "disableAutoUpdate": false,
-  "name": "auto-camera",
-  "options": {
-    "reloadable": true
-  },
-  "servers": [
-    "https://raw.githubusercontent.com/PatrickSantoZZ/auto-camera/master/"
-  ],
-  "supportUrl": "https://github.com/PatrickSantoZZ/auto-camera/issues",
-  "version": "80.03"
+    "author": "seraphinush | teralove | Nekonekoo",
+    "description": "tera-proxy module to unlock maximum viewing distance",
+    "disableAutoUpdate": false,
+    "name": "auto-camera",
+    "options": {
+        "reloadable": true
+    },
+    "servers": ["https://raw.githubusercontent.com/PatrickSantoZZ/auto-camera/master/"],
+    "supportUrl": "https://github.com/PatrickSantoZZ/auto-camera/issues",
+    "version": "07.05.2019"
 }
