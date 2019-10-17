@@ -1,5 +1,5 @@
 {
-    "author": "seraphinush | teralove | Nekonekoo",
+    "author": "Nekonekoo",
     "description": "tera-proxy module to unlock maximum viewing distance",
     "disableAutoUpdate": false,
     "name": "auto-camera",
@@ -8,5 +8,5 @@
     },
     "servers": ["https://raw.githubusercontent.com/PatrickSantoZZ/auto-camera/master/"],
     "supportUrl": "https://github.com/PatrickSantoZZ/auto-camera/issues",
-    "version": "07.05.2019"
+    "version": "17.10.2019"
 }

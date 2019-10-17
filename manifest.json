@@ -5,12 +5,12 @@
             "overwrite": false,
             "hash": "73689a6a00d227d1798ab69bc85d98f87f31a8ca7ded5bfb0c23cbca7c40a384"
         },
-        "index.js": "3aa8155a044ff13b9ef24663f92827b1d3870493f144635c166f5064ed9fb312",
-        "module.json": "d9b3034d955df8c3bcd41a308c83054bf28fde5caeae9d36c0d5802ae83a2468"
+        "index.js": "f11542cf06fb0ffc399356f939b89da7de0a2a198179c365116e93fbd4cd68b2",
+        "module.json": "afab91b56c11f79d2c7c460de458fd4a8b29af88dd80d5ce604ee42834a920ab"
     },
     "defs": {
         "S_DUNGEON_CAMERA_SET": 1,
-        "S_LOGIN": 13,
+        "S_LOGIN": 14,
         "S_SPAWN_ME": "raw"
     }
 }
